@@ -3,11 +3,12 @@
   <groupId>com.ferra13671</groupId>
   <artifactId>comet-renderer</artifactId>
   <versioning>
-    <latest>1.8.4-public</latest>
-    <release>1.8.4-public</release>
+    <latest>1.9</latest>
+    <release>1.9</release>
     <versions>
       <version>1.8.4-public</version>
+      <version>1.9</version>
     </versions>
-    <lastUpdated>20251110184449</lastUpdated>
+    <lastUpdated>20251217150322</lastUpdated>
   </versioning>
 </metadata>
