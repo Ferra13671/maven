@@ -3,8 +3,8 @@
   <groupId>com.ferra13671</groupId>
   <artifactId>comet-renderer-minecraft</artifactId>
   <versioning>
-    <latest>26.1-snapshot-2-fabric-2.3</latest>
-    <release>26.1-snapshot-2-fabric-2.3</release>
+    <latest>26.1-snapshot-2-fabric-2.4</latest>
+    <release>26.1-snapshot-2-fabric-2.4</release>
     <versions>
       <version>1.21.11-fabric-yarn-2.0</version>
       <version>1.21.8-fabric-yarn-2.0</version>
@@ -28,7 +28,14 @@
       <version>1.21.8-fabric-yarn-2.3</version>
       <version>26.1-snapshot-1-fabric-2.3</version>
       <version>26.1-snapshot-2-fabric-2.3</version>
+      <version>1.21.4-fabric-2.4</version>
+      <version>1.21.10-fabric-2.4</version>
+      <version>1.21.11-fabric-2.4</version>
+      <version>1.21.5-fabric-2.4</version>
+      <version>1.21.8-fabric-2.4</version>
+      <version>26.1-snapshot-1-fabric-2.4</version>
+      <version>26.1-snapshot-2-fabric-2.4</version>
     </versions>
-    <lastUpdated>20260114140836</lastUpdated>
+    <lastUpdated>20260118092348</lastUpdated>
   </versioning>
 </metadata>
