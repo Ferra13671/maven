@@ -3,8 +3,8 @@
   <groupId>com.ferra13671</groupId>
   <artifactId>crm</artifactId>
   <versioning>
-    <latest>26.1-fabric-2.8</latest>
-    <release>26.1-fabric-2.8</release>
+    <latest>26.1-fabric-2.8.0.1</latest>
+    <release>26.1-fabric-2.8.0.1</release>
     <versions>
       <version>1.21.1-fabric-2.6</version>
       <version>1.21.10-fabric-2.6</version>
@@ -38,7 +38,16 @@
       <version>1.21.5-fabric-2.8</version>
       <version>1.21.8-fabric-2.8</version>
       <version>26.1-fabric-2.8</version>
+      <version>1.20.1-fabric-2.8.0.1</version>
+      <version>1.20.4-fabric-2.8.0.1</version>
+      <version>1.21.1-fabric-2.8.0.1</version>
+      <version>1.21.10-fabric-2.8.0.1</version>
+      <version>1.21.11-fabric-2.8.0.1</version>
+      <version>1.21.4-fabric-2.8.0.1</version>
+      <version>1.21.5-fabric-2.8.0.1</version>
+      <version>1.21.8-fabric-2.8.0.1</version>
+      <version>26.1-fabric-2.8.0.1</version>
     </versions>
-    <lastUpdated>20260516113314</lastUpdated>
+    <lastUpdated>20260602213828</lastUpdated>
   </versioning>
 </metadata>
